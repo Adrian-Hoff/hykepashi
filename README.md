@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hey there, Im <span color='#8811ee'>Adrian Hoff</span></h1>
-<div style="display: flex;">
-  <img  src='https://github-readme-stats.vercel.app/api?username=hykepashi&count_private=true&show_icons=true&theme=midnight-purple&bg_color=00000000&border_color=00000000'/>
-    <img style="position: absolute;" src="https://github-readme-stats.vercel.app/api/pin/?username=hykepashi&repo=taskly&theme=midnight-purple&bg_color=00000000&border_color=00000000&langs_count=8"/>
+<h2>Hey there, Im <a color='#8811ee' >Adrian Hoff</a></h2>
+<div width='100%' style="display: flex;">
+  <img width='50%'  src='https://github-readme-stats.vercel.app/api?username=hykepashi&count_private=true&show_icons=true&theme=midnight-purple&bg_color=00000000&border_color=00000000'/>
+    <img width='40%' style="position: absolute;" src="https://github-readme-stats.vercel.app/api/pin/?username=hykepashi&repo=taskly&theme=midnight-purple&bg_color=00000000&border_color=00000000&langs_count=8"/>
 
 </div>
 
