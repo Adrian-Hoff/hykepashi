@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1>Hey there, Im <span color='#8811ee'>Adrian Hoff</span></h1>
 <div >
   <img  src='https://github-readme-stats.vercel.app/api?username=hykepashi&count_private=true&show_icons=true&theme=midnight-purple&bg_color=00000000&border_color=00000000'/>
-    <img style="position: absolute;" src="https://github-readme-stats.vercel.app/api/pin/?username=hykepashi&repo=taskly&theme=midnight-       purple&bg_color=00000000&border_color=00000000&langs_count=8"/>
+    <img style="position: absolute;" src="https://github-readme-stats.vercel.app/api/pin/?username=hykepashi&repo=taskly&theme=midnight-purple&bg_color=00000000&border_color=00000000&langs_count=8"/>
 
 </div>
 
