@@ -16,12 +16,15 @@ Here are some ideas to get you started:
 -->
 
 <h2>Hey there, Im <a color='#8811ee' >Adrian Hoff</a></h2>
-<div width='100%' style="display: flex;">
+<div width='100%' style="display: flex">
   <img width='50%'  src='https://github-readme-stats.vercel.app/api?username=hykepashi&count_private=true&show_icons=true&theme=midnight-purple&bg_color=00000000&border_color=00000000'/>
-    <img width='40%' style="position: absolute;" src="https://github-readme-stats.vercel.app/api/pin/?username=hykepashi&repo=taskly&theme=midnight-purple&bg_color=00000000&border_color=00000000&langs_count=8"/>
 
 </div>
-
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hykepashi&repo=taskly&theme=midnight-purple&bg_color=00000000&border_color=00000000&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hykepashi&repo=mygym&theme=midnight-purple&bg_color=00000000&border_color=00000000&langs_count=8"/>
+</div>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Adrian_Hoff"/>
 
 <div style="display: inline_block;"><br>
   <img align="center" alt="Arthur-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
