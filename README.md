@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 color='#8811ee'>Hey there, Im Adrian Hoff</h1>
-
+<h1>Hey there, Im <span color='#8811ee'>Adrian Hoff</span></h1>
+<img src='https://github-readme-stats.vercel.app/api?username=hykepashi&show_icons=true&theme=midnight-purple&bg_color=00000000'/>
