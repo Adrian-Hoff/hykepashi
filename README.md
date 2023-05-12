@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <h2>Hey there, Im <a color='#8811ee' >Adrian Hoff</a></h2>
 <div width='100%' style="display: flex">
-  <img src='https://github-readme-stats.vercel.app/api?username=hykepashi&count_private=true&show_icons=true&theme=midnight-purple&bg_color=00000000&border_color=00000000'/>
-
+  <img height='180em' src='https://github-readme-stats.vercel.app/api?username=hykepashi&count_private=true&show_icons=true&theme=midnight-purple&bg_color=00000000&border_color=00000000'/>
+  <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=midnight-purple&bg_color=00000000&border_color=00000000&layout=compact"/>
 </div>
 
 <h1></h1>
