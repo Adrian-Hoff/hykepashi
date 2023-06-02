@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </div>
 <h1></h1>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Adrian_Hoff"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Adrian_Hoff&theme=midnight-purple&bg_color=00000000&border_color=00000000"/>
 <img style='social' src='https://wakatime.com/badge/user/21268828-1c5b-46df-accb-8f61d4cbae11.svg'/>
 
 
